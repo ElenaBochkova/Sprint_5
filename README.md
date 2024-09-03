@@ -14,13 +14,9 @@
 Содержит тесты проекта, а именно:
 
 - <b>test_registration.py</b> - тестирование регистрации в системе, а именно:
-- 
 - - <b>test_correct_registration</b> - тест совершенно обычной регистрации со всеми корректными данными
-  - 
 - - <b>test_registration_password_shorter_6_symbols_FAIL</b> - тест регистрации с паролем длиной короче 6 символов
-  - 
 - <b>test_quit_account.py</b> - тестирование выхода из аккаунта, а именно:
-- 
 - - <b>test_open_personal_account_after_login_pass</b> - тест выхода из аккаунта после логина новозарегистрированным пользователем
 - <b>test_navigate_constructor.py</b> - тестирование перехода по разделам в Конструкторе, а именно:
 - - <b>test_navigate_to_sauces_unlogged_constructor_pass</b> - переход в секцию "Соусы" в Конструкторе без логина
